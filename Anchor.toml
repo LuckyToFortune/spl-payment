@@ -4,14 +4,14 @@
 seeds = false
 skip-lint = false
 
-[programs.localnet]
-spl_payment = "4AdtuALwCGgQs9o3L3Hb541TYpcMjNJFoAbz544cCHra"
+[programs.devnet]
+spl_payment = "ADJTuM8BMjCupygz4jWP8GPhh3p4cfveYs5h7mfCDw1Y"
 
 [registry]
 url = "https://api.apr.dev"
 
 [provider]
-cluster = "Localnet"
+cluster = "devnet"
 wallet = "/home/flynn/.config/solana/id.json"
 
 [scripts]

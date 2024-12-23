@@ -7,7 +7,7 @@ mod state;
 use anchor_lang::prelude::*;
 use instructions::*;
 
-declare_id!("4AdtuALwCGgQs9o3L3Hb541TYpcMjNJFoAbz544cCHra");
+declare_id!("ADJTuM8BMjCupygz4jWP8GPhh3p4cfveYs5h7mfCDw1Y");
 
 #[program]
 pub mod spl_payment {
